@@ -2,7 +2,7 @@
 
 Title: Eye Exercise
 
-Description: This project shows two eyes that follow the curser wherever it moves on the page. The eye balls are the only part that move. The files in this project contain code provided by the Full Stack Development with MERN course.
+Description: This project shows two eyes that follow the curser wherever it moves on the page. The eye balls are the only part that move. The files in this project contain code provided by the Full Stack Development with MERN course with edits by me.
 
 How to run: Download and then drag and drop the HTML file on the browser.
 
